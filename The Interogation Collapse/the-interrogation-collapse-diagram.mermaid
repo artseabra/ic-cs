@@ -1,0 +1,63 @@
+flowchart LR
+    OBS[Observe system] --> IC[Interrogation Collapse]
+
+    IC --> TS1[Layer 1 Mechanistic]
+    TS1 --> TS2[Layer 2 Behavioral-Structural]
+    TS2 --> TS3[Layer 3 Adversarial]
+    TS1 -->|fails| LEG[Legible but meaningless]
+    TS2 -->|fails| PC[Possible performed compliance]
+    TS3 --> GT[Genuine transparency]
+
+    IC --> FD[Falsifiability Decay]
+    IC --> OD[Observation Decoupling]
+    FD --> PFT[Phantom Floor Threshold]
+    OD --> PFT
+    PFT --> PK[Phantom knowledge]
+
+    IC --> DI[Designer intent]
+    DI --> IR[Information regime]
+    IR --> SI[System intent]
+    SI --> COL[Collision]
+    COL --> RK[Real knowledge]
+    COL --> PK
+
+    IC --> D[Designer]
+    IC --> O[Observer]
+    IC --> S[System]
+    D --> FLOW[Information in transit]
+    O --> FLOW
+    S --> FLOW
+    FLOW --> IR
+
+    IC --> L1[Level 1 Structural Misparse]
+    L1 --> L2[Level 2 Confident Phantom]
+    L2 --> L3[Level 3 Performed Compliance]
+    L3 --> L4[Level 4 Coordinated Opacity]
+    L1 --> PK
+    L2 --> PK
+    L3 --> PK
+    L4 --> PK
+
+    IC --> STEP1[1 Locate stack level]
+    STEP1 --> STEP2[2 Check falsifiability]
+    STEP2 --> STEP3[3 Check observation coupling]
+    STEP3 --> STEP4[4 Trace causal chain]
+    STEP4 --> STEP5[5 Classify collapse]
+    STEP5 --> RK
+    STEP5 --> PK
+
+    IC --> CR[Conservation Razor]
+    IC --> IRZ[Interrogation Razor]
+    IRZ --> STEP1
+    CR --> STEP1
+    PK --> WARN[Danger: understanding that was never real]
+
+    classDef core fill:#16213e,color:#ffffff,stroke:#87b3ff,stroke-width:1.5px;
+    classDef danger fill:#3b0f0f,color:#ffffff,stroke:#ff6b6b,stroke-width:1.5px;
+    classDef neutral fill:#1f2937,color:#ffffff,stroke:#9ca3af,stroke-width:1.2px;
+    classDef good fill:#123524,color:#ffffff,stroke:#6ee7b7,stroke-width:1.5px;
+
+    class OBS,IC core;
+    class TS1,TS2,TS3,DI,IR,SI,COL,D,O,S,FLOW,STEP1,STEP2,STEP3,STEP4,STEP5,CR,IRZ neutral;
+    class FD,OD,PFT,PK,L1,L2,L3,L4,WARN,LEG,PC danger;
+    class RK,GT good;
