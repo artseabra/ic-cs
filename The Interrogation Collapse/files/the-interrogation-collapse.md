@@ -110,7 +110,7 @@ The Interrogation Collapse manifests in four distinct tiers, ordered by severity
 
 The observation apparatus misreads the system's internal representations due to a mismatch between the tool's assumptions and the system's actual computational structure. No agent is lying. No intent is adversarial. The tool simply parses the wrong features, or parses the right features in a way that does not correspond to their causal role.
 
-**Example in MI:** A probing classifier identifies a direction in activation space as encoding a concept (e.g., "truthfulness") when the direction is actually a statistical artifact of the training distribution. The finding is published, replicated, and cited — but the underlying causal claim is wrong.
+**Example in MI:** A probing classifier identifies a direction in activation space as encoding a concept (e.g., "truthfulness") when the direction is actually a statistical artifact of the training distribution. The finding is published, replicated, and cited — but the underlying causal claim is wrong. The misparse occurs because the tool assumes one concept per direction — a monosemantic architecture — while the network actually computes in superposition, encoding multiple concepts across overlapping directions. The tool was built for one computational game. The network is playing another. Nobody is lying. The playbook simply doesn't match the room.
 
 **Diagnostic:** Structural Misparse is the most common and least dangerous collapse level. It is correctable through improved tooling, cross-validation, and causal intervention methods. It does not require the system to have any strategic capacity.
 
