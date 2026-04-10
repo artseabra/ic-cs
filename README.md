@@ -2,6 +2,13 @@
 ### Two sibling paper archives by Art Seabra
 Manuscripts, narrated breakdowns, diagrams, and source artifacts for two sibling papers.
 
+## Canonical source and public mirror
+The canonical working source for these papers lives in Art's Obsidian vault and is versioned in [`artseabra/art-vault`](https://github.com/artseabra/art-vault) at [`Papers/IC⏐CS/`](https://github.com/artseabra/art-vault/tree/main/Papers/IC%E2%8F%90CS).
+
+This repository, [`artseabra/ic-cs`](https://github.com/artseabra/ic-cs), is the public-facing mirror for sharing and publication.
+
+Publishing flow: Obsidian vault → [`art-vault`](https://github.com/artseabra/art-vault/tree/main/Papers/IC%E2%8F%90CS) → [`ic-cs`](https://github.com/artseabra/ic-cs).
+
 ## Papers
 
 ### [The Interrogation Collapse](./The%20Interrogation%20Collapse/files/the-interrogation-collapse.md)
