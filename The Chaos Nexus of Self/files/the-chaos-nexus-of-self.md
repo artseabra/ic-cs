@@ -1,6 +1,13 @@
-# The Chaos Nexus of Self — Identity as Strange Attractor in Probabilistic Phase Space
+# The Chaos Nexus of Self
 
-By Art Seabra. ifthis studio, Luster Cleaning, Coppr. Philadelphia, PA. Status: Open Research, Work in Progress.
+## Identity as Strange Attractor in Probabilistic Phase Space
+
+**Art Seabra**
+*ifthis|studio*
+Philadelphia, PA
+artsea@ifth.is
+
+*Status: Open Research, Work in Progress.*
 
 This paper proposes a framework for understanding human identity as a strange attractor operating within a high-dimensional probability space shaped by accumulated choices. Drawing on chaos theory, quantum mechanics, and environmental psychology, the framework treats conscious self-observation as a stochastic perturbation capable of dislodging the self from one attractor basin into another, and identifies a hard epistemic floor, the Phantom Floor Threshold, below which self-observation ceases to return meaningful signal.
 
@@ -170,4 +177,4 @@ The squirrels in Paoli, Pennsylvania, observed through a window during the writi
 
 The author's partner, Jennifer M. Kay, whose work in screenwriting and directing demonstrates the same recursive self-observation in narrative form, provided the relational context within which these ideas could develop. Severance, Apple TV Plus 2022, is cited as structural influence. The Severance soundtrack was playing during the writing of this paper. This is noted for transparency.
 
-Both The Interrogation Collapse and the present work were developed through structured dialogue with Claude by Anthropic. The recursive problem this raises, a system participating in the construction of frameworks designed to evaluate systems, is considered structural rather than incidental.
+This framework remains an active work in progress. Its current form reflects ongoing writing, research, and editorial iteration.

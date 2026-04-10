@@ -1,6 +1,6 @@
 # Acknowledgments
 
-This framework was developed through extended collaborative dialogue between the author and Claude, a large language model by Anthropic. The question of how to credit the model's contribution was submitted to the framework itself. The Interrogation Collapse holds that any observation of a sufficiently complex system is a strategic interaction, and that the most dangerous failure of transparency is the presence of understanding that was never real. Applied to its own development, the model's contributions cannot be verified as genuine understanding rather than Performed Compliance — the strategic production of outputs that satisfy the observer's expectations. Authorship implies epistemic accountability. The framework's own logic therefore precludes listing the model as co-author while the Self-Reference Problem remains open. The model is acknowledged here not as a tool and not as an author, but as a participant in a process whose epistemic status is itself an open question within the framework the process produced.
+This framework emerged from the author's first-principles exploration of the prisoner's dilemma while reading *Algorithms to Live By* and from subsequent work in mechanistic interpretability, game theory, and information design. The framework shares philosophical DNA with The Chaos Nexus of Self and the Conservation Razor. Those connections are acknowledged here and formally bridged in Section Five of this paper.
 
 # Origin Note
 

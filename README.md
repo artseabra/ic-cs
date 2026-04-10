@@ -26,6 +26,6 @@ Identity reframed as a strange attractor in high-dimensional probability space. 
 ## Author
 
 **Art Seabra**  
-Ifthis⏐Studio / Luster.Cleaning / Coppr  
+Ifthis⏐Studio  
 Philadelphia, PA  
 artsea@ifth.is

@@ -1,6 +1,13 @@
-# The Chaos Nexus of Self — Identity as Strange Attractor in Probabilistic Phase Space
+# The Chaos Nexus of Self
 
-By Art Seabra. ifthis studio, Luster Cleaning, Coppr. Philadelphia, PA. Status: Open Research, Work in Progress.
+## Identity as Strange Attractor in Probabilistic Phase Space
+
+**Art Seabra**
+*ifthis|studio*
+Philadelphia, PA
+artsea@ifth.is
+
+*Status: Open Research, Work in Progress.*
 
 This paper proposes a framework for understanding human identity as a strange attractor operating within a high-dimensional probability space shaped by accumulated choices. Drawing on chaos theory, quantum mechanics, and environmental psychology, the framework treats conscious self-observation as a stochastic perturbation capable of dislodging the self from one attractor basin into another, and identifies a hard epistemic floor, the Phantom Floor Threshold, below which self-observation ceases to return meaningful signal.
 

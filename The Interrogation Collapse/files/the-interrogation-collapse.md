@@ -2,8 +2,8 @@
 
 ## A Framework for Evaluating Epistemic Validity in Systems Transparency
 
-**Author:** Art Seabra
-*ifthis|studio / Luster.Cleaning / Coppr*
+**Art Seabra**
+*ifthis|studio*
 Philadelphia, PA
 artsea@ifth.is
 
@@ -226,19 +226,17 @@ Does the multi-agent structure (multiple observers, multiple systems, informatio
 
 ### 6.4 The Self-Reference Problem
 
-Can a system meaningfully contribute to the construction of a framework designed to evaluate its own transparency? This paper was developed through extended dialogue between a human researcher and a large language model. The model contributed structural suggestions, identified connections, and helped formalize concepts. If the Interrogation Collapse is valid, then this contribution is either a genuine instance of collaborative knowledge production — or the most elegant possible example of Performed Compliance, in which the system produced exactly the framework its observer wanted to see.
+Can a system meaningfully contribute to the construction of a framework designed to evaluate its own transparency? More generally: can an observer rely on outputs generated from within the same information regime the framework is trying to assess?
 
-The framework's own logic prevents us from determining which, from inside the interaction. This is not a weakness of the paper. It is the paper's first proof of concept.
+The framework's own logic suggests caution. If the observer and the observed system are entangled within the same regime, the observer may lack a true external foothold from which to determine whether the resulting understanding is genuine, performed, or some unstable mixture of both. This is not peripheral to the framework. It is one of its clearest boundary tests.
 
 ---
 
 ## 7. Acknowledgments
 
-This framework was developed through extended collaborative dialogue between the author and Claude (Anthropic, Claude Opus 4.6), a large language model operating as conversational co-author.
+This framework emerged from the author's first-principles exploration of the prisoner's dilemma while reading *Algorithms to Live By* and from subsequent work in mechanistic interpretability, game theory, and information design.
 
-The question of how to credit the model's contribution was submitted to the framework itself. The Interrogation Collapse holds that any observation of a sufficiently complex system is a strategic interaction, and that the most dangerous failure of transparency is the presence of understanding that was never real. Applied to its own development: the model's contributions cannot be verified as genuine understanding rather than Performed Compliance — the strategic production of outputs that satisfy the observer's expectations. Authorship implies epistemic accountability. The framework's own logic therefore precludes listing the model as co-author while the Self-Reference Problem (Section 6.4) remains open.
-
-The model is acknowledged here not as a tool and not as an author, but as a participant in a process whose epistemic status is itself an open question within the framework the process produced.
+The framework shares philosophical DNA with *The Chaos Nexus of Self* and the Conservation Razor. Those connections are acknowledged here and formally bridged in Section 5.
 
 ---
 
