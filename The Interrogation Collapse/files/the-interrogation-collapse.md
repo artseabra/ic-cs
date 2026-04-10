@@ -1,9 +1,10 @@
 # The Interrogation Collapse
 
 ## A Framework for Evaluating Epistemic Validity in Systems Transparency
-Art Seabra
-Ifthis⏐Studio
-Malvern, PA
+
+**Author:** Art Seabra
+*ifthis|studio / Luster.Cleaning / Coppr*
+Philadelphia, PA
 artsea@ifth.is
 
 ---
