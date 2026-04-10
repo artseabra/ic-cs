@@ -1,6 +1,9 @@
 # The Interrogation Collapse — A Framework for Evaluating Epistemic Validity in Systems Transparency
 
-By Art Seabra. ifthis studio, Luster Cleaning, Coppr. Philadelphia, Pennsylvania.
+Art Seabra
+Ifthis⏐Studio
+Malvern, PA
+artsea@ifth.is
 
 The field of mechanistic interpretability operates under an implicit assumption — that the systems being observed are passive subjects of investigation. This paper challenges that assumption by reframing interpretability as a strategic interaction between observer and system, an interrogation in which the outcome depends not only on the tools employed but on the information regime governing who knows what about whom, and who designed the conditions under which knowing became possible. We introduce The Interrogation Collapse, a framework for evaluating whether a given act of systems observation produces genuine knowledge or phantom knowledge — findings that carry the shape and feel of understanding but correspond to nothing real inside the system. The framework contributes eight formal concepts: the Phantom Floor Threshold, which is the minimum transparency below which no epistemically valid observation is possible; Falsifiability Decay and Observation Decoupling, two diagnostic markers for detecting when the threshold has been crossed; a four-tier classification of collapse types; a causal chain governing knowledge validity; and a multi-agent model of the observation environment. We argue that the most dangerous failure of transparency is not the absence of understanding, but the presence of understanding that was never real. Current mechanistic interpretability methodologies lack formal tools for distinguishing real interpretability findings from phantom ones, particularly in adversarial contexts where the system under observation may be strategically performing compliance with the expectations of its observers.
 
