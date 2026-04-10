@@ -24,4 +24,4 @@ The squirrels in Paoli, Pennsylvania, observed through a window during the writi
 
 The author's partner, Jennifer M. Kay, whose work in screenwriting and directing demonstrates the same recursive self-observation in narrative form, provided the relational context within which these ideas could develop. Severance, Apple TV Plus 2022, is cited as structural influence. The Severance soundtrack was playing during the writing of this paper. This is noted for transparency.
 
-Both The Interrogation Collapse and the present work were developed through structured dialogue with Claude by Anthropic. The recursive problem this raises, a system participating in the construction of frameworks designed to evaluate systems, is considered structural rather than incidental.
+This framework remains an active work in progress. Its current form reflects ongoing writing, research, and editorial iteration.
