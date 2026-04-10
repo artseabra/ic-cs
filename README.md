@@ -17,11 +17,9 @@ Identity reframed as a strange attractor in high-dimensional probability space. 
 ## Repository structure
 
 - `The Interrogation Collapse/`
-  - `The Interrogation Collapse.md` — Obsidian paper note
   - `files/` — compiled manuscript plus narrated parts
   - `conversational artifact/` — original Claude export
 - `The Chaos Nexus of Self/`
-  - `The Chaos Nexus of Self.md` — Obsidian paper note
   - `files/` — compiled manuscript plus narrated parts
   - `conversational artifact/` — original Claude export
 
