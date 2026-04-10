@@ -47,8 +47,10 @@ flowchart LR
     CN --> Q2[Firewall problem]
     CN --> Q3[Unnamed strings]
     CN --> Q4[Deeper unity]
+    CN --> Q5[Velocity problem]
     CN --> SIB[Sibling: Interrogation Collapse]
     SIB --> Q4
+    SIB --> Q5
 
     classDef core fill:#2b124c,color:#ffffff,stroke:#d8b4fe,stroke-width:1.5px;
     classDef system fill:#1f2937,color:#ffffff,stroke:#93c5fd,stroke-width:1.2px;
@@ -56,6 +58,6 @@ flowchart LR
     classDef insight fill:#123524,color:#ffffff,stroke:#6ee7b7,stroke-width:1.5px;
 
     class SELF,CN,CORE,SIB core;
-    class O,E,F,P,N,S,A,D1,D2,D3,D4,D5,SUB,CON,R1,R2,R3,R4,ES1,ES2,ES3,Q1,Q2,Q3,Q4 system;
+    class O,E,F,P,N,S,A,D1,D2,D3,D4,D5,SUB,CON,R1,R2,R3,R4,ES1,ES2,ES3,Q1,Q2,Q3,Q4,Q5 system;
     class PFT danger;
     class KICK,CR,IR,BOTH insight;
