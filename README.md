@@ -1,11 +1,10 @@
 # IC⏐CS
-### Two sibling papers by Art Seabra
+### Two sibling paper archives by Art Seabra
 Manuscripts, narrated breakdowns, diagrams, and source artifacts for two sibling papers.
-
 
 ## Papers
 
-### [The Interrogation Collapse](./The%20Interogation%20Collapse/files/the-interrogation-collapse.md)
+### [The Interrogation Collapse](./The%20Interrogation%20Collapse/files/the-interrogation-collapse.md)
 *A Framework for Evaluating Epistemic Validity in Systems Transparency*
 
 Mechanistic interpretability reframed as a strategic interaction between observer and system. Includes the Phantom Floor Threshold, Falsifiability Decay, Observation Decoupling, the Transparency Stack, and the four collapse levels.
@@ -17,16 +16,18 @@ Identity reframed as a strange attractor in high-dimensional probability space. 
 
 ## Repository structure
 
-- `The Interogation Collapse/`
+- `The Interrogation Collapse/`
+  - `The Interrogation Collapse.md` — Obsidian paper note
   - `files/` — compiled manuscript plus narrated parts
-  - `conversational artifact/` — source artifact retained for authorship and provenance
+  - `conversational artifact/` — original Claude export
 - `The Chaos Nexus of Self/`
+  - `The Chaos Nexus of Self.md` — Obsidian paper note
   - `files/` — compiled manuscript plus narrated parts
-  - `conversational artifact/` — source artifact retained for authorship and provenance
+  - `conversational artifact/` — original Claude export
 
 ## Author
 
-Art Seabra  
-Ifthis⏐Studio  
-Malvern, PA  
+**Art Seabra**  
+Ifthis⏐Studio / Luster.Cleaning / Coppr  
+Philadelphia, PA  
 artsea@ifth.is
