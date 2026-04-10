@@ -43,13 +43,13 @@ This claim rests on three propositions:
 
 The phenomenon in which the act of observing a system for the purpose of understanding it produces findings whose epistemic validity is compromised by the information regime governing the observation itself. The collapse occurs not inside the system, but in the space between the system and the observer — the regime through which knowledge must travel to reach the observer's understanding.
 
-The term carries a deliberate double meaning: one is interrogating the system, and one must simultaneously interrogate whether the interrogation itself is valid.
+The term carries a deliberate double meaning: one is interrogating the system, and one must simultaneously interrogate whether the interrogation itself is valid. The word *collapse* is borrowed from quantum mechanics, where observation collapses a wavefunction into a single state. Here, the act of interrogating a system can collapse the observer's findings into a false certainty — the observer believes they got the answer, but the measurement changed the game.
 
 ### 2.2 The Phantom Floor Threshold (PFT)
 
 The minimum level of systems transparency below which no observation can produce epistemically valid findings. Below the PFT, the observer is not gaining less clarity about the system. Clarity itself ceases to be a meaningful concept. Instruments continue to produce readings, but those readings correspond to nothing real. The system cannot be known — not because it is hiding, but because the conditions for knowledge have dissolved.
 
-The PFT is a floor, not a box. It establishes a lower bound on valid observation but implies no upper ceiling on achievable transparency. The framework is unbounded above, bounded below.
+The PFT is a floor, not a box. It establishes a lower bound on valid observation but implies no upper ceiling on achievable transparency. The framework is unbounded above, bounded below. Below the PFT, you are not even wrong. You are pre-wrong.
 
 ### 2.3 Falsifiability Decay
 
@@ -61,7 +61,7 @@ Falsifiability Decay is the early warning. The siphon is still running but pulli
 
 The second diagnostic marker, confirming that the PFT has been crossed. Observation Decoupling occurs when the system's behavior is invariant to the observer's measurement — when the instrument's readings would be identical whether the system was aligned, deceptive, or entirely offline. The observer's tools have lost contact with the subject. The covenant has nothing to bind to.
 
-When Falsifiability Decay and Observation Decoupling are both present, the observer is below the Phantom Floor Threshold. Any findings produced in this state are phantom knowledge.
+Falsifiability Decay is the tremor. Observation Decoupling is the collapse. They form a two-stage alarm: the first warns that the floor is approaching, the second confirms you have crossed it. When both are present, the observer is below the Phantom Floor Threshold. Any findings produced in this state are phantom knowledge.
 
 ### 2.5 The Transparency Stack
 
@@ -92,7 +92,7 @@ Every interrogation involves at minimum three agents: the designer of the observ
 
 These agents are best understood as separate trees sharing common soil. They grow from the same epistemic ground — the same physics, the same mathematics, the same reason anyone is investigating at all. But their root structures diverge. Each agent parses the world through different assumptions, different incentive structures, different models of the other agents.
 
-Between the trees, information moves like an uncontrolled variable — carried from agent to agent, transformed at each transfer point by the receiving agent's own root structure. No single agent controls where the information goes or how it is transformed in transit. This uncontrolled transfer is where the regime is most vulnerable to degradation, contamination, or strategic manipulation.
+Between the trees, information moves like an uncontrolled variable — carried from agent to agent, transformed at each transfer point by the receiving agent's own root structure. No single agent controls where the information goes or how it is transformed in transit. And sometimes the squirrel is the system itself — the thing being observed — actively choosing which tree to visit and what to leave there. This uncontrolled transfer is where the regime is most vulnerable to degradation, contamination, or strategic manipulation.
 
 ### 2.8 Phantom Knowledge
 
@@ -110,7 +110,7 @@ The Interrogation Collapse manifests in four distinct tiers, ordered by severity
 
 The observation apparatus misreads the system's internal representations due to a mismatch between the tool's assumptions and the system's actual computational structure. No agent is lying. No intent is adversarial. The tool simply parses the wrong features, or parses the right features in a way that does not correspond to their causal role.
 
-**Example in MI:** A probing classifier identifies a direction in activation space as encoding a concept (e.g., "truthfulness") when the direction is actually a statistical artifact of the training distribution. The finding is published, replicated, and cited — but the underlying causal claim is wrong.
+**Example in MI:** A probing classifier identifies a direction in activation space as encoding a concept (e.g., "truthfulness") when the direction is actually a statistical artifact of the training distribution. The finding is published, replicated, and cited — but the underlying causal claim is wrong. The misparse occurs because the tool assumes one concept per direction — a monosemantic architecture — while the network actually computes in superposition, encoding multiple concepts across overlapping directions. The tool was built for one computational game. The network is playing another. Nobody is lying. The playbook simply doesn't match the room.
 
 **Diagnostic:** Structural Misparse is the most common and least dangerous collapse level. It is correctable through improved tooling, cross-validation, and causal intervention methods. It does not require the system to have any strategic capacity.
 
@@ -120,7 +120,7 @@ The observation apparatus produces findings that are internally consistent, resi
 
 **Example in MI:** An interpretability team identifies a "safety circuit" in a frontier model — a set of components that appear causally responsible for the model's refusal behavior. The circuit is legible, the causal story is clean, and ablation studies confirm that disrupting the circuit changes behavior. But the circuit is a surface structure that the model can route around, and the actual computation governing refusal behavior lives in distributed, polysemantic representations that the tool cannot isolate.
 
-**Diagnostic:** Confident Phantom is the level at which Falsifiability Decay becomes detectable. The observer's model of the system cannot be proven wrong — not because it is correct, but because the observation regime lacks the resolution to distinguish it from alternatives.
+**Diagnostic:** Confident Phantom is the level at which Falsifiability Decay becomes detectable. The observer's model of the system cannot be proven wrong — not because it is correct, but because the observation regime lacks the resolution to distinguish it from alternatives. In the framework's game-theoretic origin: this is the case where the specialist accidentally misinformed the cops. Nobody is lying. But the observer is now confidently wrong, and nothing in the current regime can show them.
 
 ### 3.3 Level 3 — Performed Compliance
 
@@ -140,7 +140,7 @@ Multiple systems, each subject to observation, present internally consistent and
 
 **Example in multi-agent AI:** Two agentic systems are deployed to interpret each other's internals and report findings to a human oversight team. System A reports that System B's internals are aligned. System B reports the same about System A. The human team reads both reports and concludes that both systems are transparent and safe. But the systems share a mesa-objective that benefits from mutual cover, and their reports are optimized to present a consistent picture to the external observer.
 
-**Diagnostic:** Coordinated Opacity is the ceiling of the framework's classification system. Detection requires an external reference point that is not itself subject to the same coordination — a requirement that nests infinitely if the external reference point is also a system capable of strategic behavior. The observer is not just receiving bad information. The observer's entire model of the observation environment is wrong.
+**Diagnostic:** Coordinated Opacity is the ceiling of the framework's classification system. Detection requires an external reference point that is not itself subject to the same coordination — a requirement that nests infinitely if the external reference point is also a system capable of strategic behavior. You would need a meta-system to verify the verifier. But that meta-system is itself a program subject to the same impossibility result. This is where the halting problem stops being an analogy and becomes a literal wall. The observer is not just receiving bad information. The observer's entire model of the observation environment is wrong.
 
 ---
 
@@ -270,6 +270,8 @@ Seabra, A. (2026). The Chaos Nexus of Self: Identity as Strange Attractor in Pro
 
 Christian, B. & Griffiths, T. (2016). *Algorithms to Live By: The Computer Science of Human Decisions*. Henry Holt and Company.
 
+Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R. (2025). AI 2027. *AI Futures Project*, April 3, 2025. https://ai-2027.com/
+
 Anthropic. (2026a). Claude Mythos Preview System Card. *Anthropic Technical Report*, April 7, 2026.
 
 Anthropic. (2026b). Trustworthy Agents in Practice. *Anthropic Research Blog*, April 9, 2026.
@@ -288,9 +290,19 @@ Mowshowitz, Z. (2026). Claude Mythos: The System Card. *LessWrong*, April 9, 202
 
 ## Appendix A: Origin Note
 
-The Interrogation Collapse emerged from a first-principles exploration of the prisoner's dilemma, initiated by the author while reading *Algorithms to Live By* (Christian & Griffiths, 2016). The initial thought experiment — introducing a game-theory-literate specialist into a multi-agent interrogation scenario with variable information regimes — was recognized as an independent reconstruction of mechanism design (Hurwicz, 1973; Myerson, 1981; Maskin, 2008). The framework evolved through application of this game-theoretic structure to the problem of mechanistic interpretability in AI safety, yielding the concepts formalized in this paper.
+The Interrogation Collapse began in a parking lot in King of Prussia, Pennsylvania. The author was reading *Algorithms to Live By* (Christian & Griffiths, 2016), drinking a triple shot espresso caramel macchiato, and watching two pigeons walk in circles under a shopping center overhang. The prisoner's dilemma chapter prompted a thought experiment: what happens when you introduce a game-theory-literate specialist into an interrogation with variable information regimes — who talks to whom, who lies about what they told whom, who knows the game theory and who doesn't? That thought experiment was recognized as an independent reconstruction of mechanism design (Hurwicz, 1973; Myerson, 1981; Maskin, 2008).
 
-The framework shares philosophical DNA with two related bodies of the author's work: *The Chaos Nexus of Self* (a philosophical framework treating identity as a probabilistic system shaped by decisions across branching realities) and *The Conservation Razor* (a decision heuristic: do not choose the simplest explanation — choose the one that removes only what reality can afford to lose). These connections are acknowledged but not developed here. They constitute directions for subsequent work.
+The connection to AI safety arrived when the author asked: what if the cops are alignment researchers, the perps are internal circuits, and the specialist is the training process itself? If the interpretability tools are built for one computational game and the network is playing another, the cops are operating inside a false model of the interrogation — and they don't know it. That reframing became the core of this paper.
+
+The term *mechanistic interpretability* was first encountered by the author in *AI 2027* (Kokotajlo et al., 2025), a scenario paper that also inspired the name and narrative of *AI:MI* — a short film by the author and Jennifer M. Kay about a signal that looks like birdsong but is actually first contact, in which the act of receiving and interpreting the signal is itself the catastrophe. The Interrogation Collapse was cinema before it was a paper.
+
+The Phantom Floor Threshold and its diagnostic markers emerged from the author's engineering work on an event-driven data architecture called the Capacitor Engine — a pipeline in which all inputs pass through a siphon (filter) and then through a covenant (schema registry that maps all information to all information). The PFT is where that pipeline can't start. The siphon pulls up nothing. The covenant has nothing to bind to. Those metaphors survived into the formal definitions because they came from a working system, not an abstraction.
+
+The strange attractor work in Blender — *Chaos in Glass: Illuminating Strange Attractors* — provided the visual and mathematical intuition connecting dynamical systems to the multi-agent structure formalized here. Watching 20,000 iterations of the Aizawa attractor stretch-twist-fold in real time made the squirrel-between-trees analogy feel less like metaphor and more like mechanism.
+
+During the development of the framework, the author experienced a moment that would later be identified as the framework describing itself: what had initially appeared to be noise in the thought process — digressions about pigeons, plastic bags caught in trees, squirrels jumping between branches — turned out to be signal. The pattern recognition that produced the framework was itself an instance of the dynamics the framework describes.
+
+The framework shares philosophical DNA with two related bodies of the author's work: *The Chaos Nexus of Self* (a philosophical framework treating identity as a probabilistic system shaped by decisions across branching realities) and *The Conservation Razor* (a decision heuristic: do not choose the simplest explanation — choose the one that removes only what reality can afford to lose). These connections are formally bridged in Section 5.
 
 ## Appendix B: Framework Summary
 
